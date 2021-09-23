@@ -6,7 +6,7 @@ import FetchData from './Components/FetchData/FetchData';
 import Header from './Components/Header/Header';
 import './index.css'
 
-/* function app */
+/* function*/
 function App() {  
   return (
     <div className="App" >
